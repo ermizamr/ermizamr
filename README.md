@@ -24,7 +24,7 @@
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://youtu.be/WNZehEJJPAg?si=APtNyxjfS7fpYeII">
 <strong>Listen to cool music</strong>
 <br />
 <br />
