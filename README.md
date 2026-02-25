@@ -37,7 +37,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/ermizamr/ermizamr/issues/2#issuecomment-new">
+<a href="https://github.com/ermizamr/ermizamr/issues/3#issuecomment-new">
   <img src="images/guestbook.svg" alt="Guestbook">
 </a> 
 </div>
